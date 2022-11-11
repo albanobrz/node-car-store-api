@@ -10,7 +10,7 @@
 
 - primeiro cria as classes e serviços, depois que cria as rotas, é por último
 - service (camada mais acima, é chamado um repository para ele)
-- repository (camada mediana... ver melhor)
+- o serviço é chamado na rota. A rota chama o Controller. Dentro do Controller, é chamado o UseCase. Dentro do UseCase é chamado o Repository.
 
 ## Node
 
