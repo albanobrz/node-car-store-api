@@ -16,3 +16,11 @@
 
 - Existe o fs, recurso nativo do próprio node, para ler por partes arquivos (streaming) 
 
+## Docker
+
+- comandos:
+    docker ps -a : lista todos os containers
+    docker rm (id do container) : remove o container
+    docker start (id do container) : começa o container
+    docker stop (id do container) : para de rodar o container
+    
